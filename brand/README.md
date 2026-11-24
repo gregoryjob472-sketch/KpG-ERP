@@ -25,6 +25,7 @@ Logotipo tipográfico con dos detalles del oficio contable:
 | `kpg-logo-mono-negro` / `-azul` / `-blanco` | Una sola tinta: timbres, grabados, fondos de color o foto. |
 | `kpg-isotipo` / `-claro` | Cuadrado. Redes sociales, firma de correo, avatar. |
 | `kpg-app-icon` | Ícono de aplicación con esquinas redondeadas. |
+| `kpg-perfil-redes` / `png/kpg-perfil-whatsapp-1080.png` | Foto de perfil para WhatsApp y redes. Con margen para el recorte circular. |
 | `favicon/favicon.svg` | "K" simplificada para tamaños bajo 32 px. |
 
 ## Colores
